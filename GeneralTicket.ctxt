@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=GeneralTicket
+comment0.text=\r\n\ General\ Tickets,\ not\ IT\ Tickets.\ Inherited\ from\ Ticket\r\n\r\n\ @author\ Thomas\ Parker\r\n\ @version\ 1\r\n
+comment1.params=ticketID\ date\ time\ receptionist\ details
+comment1.target=GeneralTicket(int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ GeneralTicket\r\n\ @param\ ticketID\ -\ Unique\ ID\ for\ the\ Ticket\r\n\ @param\ date\ -\ The\ date\ the\ ticket\ was\ created\r\n\ @param\ time\ -\ The\ tiem\ the\ ticket\ was\ created\r\n\ @param\ receptionist\ -\ The\ receptionist\ creating\ the\ ticket\r\n\ @param\ details\ -\ The\ details\ of\ the\ ticket\r\n
+comment2.params=
+comment2.target=java.lang.String\ viewTicket()
+numComments=3

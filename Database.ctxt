@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Database
+comment0.text=\r\n\ Creates\ the\ Files,\ Saves\ and\ Loads\ from\ these\ files\ whenever\ it\ is\ needed\r\n\r\n\ @author\ Thomas\ Parker\r\n\ @version\ 1\r\n
+comment1.params=map1\ map2\ map3
+comment1.target=Database(java.util.HashMap,\ java.util.HashMap,\ java.util.HashMap)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Database\r\n\ @param\ HashMap<Integer,\ Ticket>\ map1\ -\ HashMap\ of\ Tickets\r\n\ @param\ HashMap<Integer,\ Staff>\ map2\ -\ HashMap\ of\ Staff\r\n\ @param\ HashMap<Integer,\ Student>\ map3\ -\ HashMap\ of\ Students\r\n
+comment2.params=map1\ map2\ map3
+comment2.target=void\ save(java.util.HashMap,\ java.util.HashMap,\ java.util.HashMap)
+comment2.text=\r\n\ save\ each\ HashMap\ to\ its\ corresponding\ file\r\n\ @param\ HashMap<Integer,\ Ticket>\ map1\ -\ HashMap\ of\ Tickets\r\n\ @param\ HashMap<Integer,\ Staff>\ map2\ -\ HashMap\ of\ Staff\r\n\ @param\ HashMap<Integer,\ Student>\ map3\ -\ HashMap\ of\ Students\r\n
+comment3.params=
+comment3.target=java.util.HashMap[]\ load()
+comment3.text=\r\n\ load\ each\ HashMap\ from\ its\ corresponding\ file,\ put\ them\ into\ an\ Array\ to\ send\ them\ back,\ to\ keep\ it\ contained\ to\ 1\ function.\r\n\ @return\ HashMap[]\ maps\ -\ HashMap\ Array\ of\ all\ 3\ HashMaps\ from\ the\ 3\ files.\ \ \ \r\n
+numComments=4

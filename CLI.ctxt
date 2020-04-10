@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=CLI
+comment0.text=\r\n\ The\ Starter\ point\ for\ I/O\ before\ going\ onto\ specialized\ interfaces\r\n\r\n\ @author\ Thomas\ 'PK'\ Parker\r\n\ @version\ 1\r\n
+comment1.params=helpdesk
+comment1.target=CLI(Helpdesk)
+comment1.text=\r\n\ @param\ helpdesk\ -\ stores\ the\ instance\ of\ the\ helpdesk\ created\ by\ the\ Tester\ to\ use\ its\ method\r\n
+comment2.params=
+comment2.target=void\ main()
+comment2.text=\r\n\ the\ main\ method,\ always\ follows\ the\ constructor.\r\n
+comment3.params=
+comment3.target=java.lang.String\ createHashmaps()
+comment4.params=
+comment4.target=java.lang.String\ createTickets()
+comment5.params=
+comment5.target=void\ adminInterface()
+comment5.text=\r\n\ The\ Admin\ Interface,\ returns\ nothing.\r\n
+comment6.params=
+comment6.target=void\ generalInterface()
+comment6.text=\r\n\ The\ Receptionist\ /\ General\ Interface,\ returns\ nothing.\r\n
+numComments=7

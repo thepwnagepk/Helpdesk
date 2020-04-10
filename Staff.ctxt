@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Staff
+comment0.text=\r\n\ Parent\ /\ Superclass\ of\ Admin\ and\ Receptionist\r\n\r\n\ @author\ Thomas\ Parker\r\n\ @version\ 1\r\n
+comment1.params=ID\ name\ username\ password
+comment1.target=Staff(int,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Staff\r\n\ @param\ ID\ -\ Unique\ ID\ for\ the\ Admin\ or\ Receptionist\r\n\ @param\ name\ -\ this\ is\ the\ name\ of\ the\ account\ holder\r\n\ @param\ username\ -\ username\ used\ to\ log\ into\ the\ account\r\n\ @param\ password\ -\ password\ used\ to\ log\ into\ the\ account\r\n
+comment2.params=
+comment2.target=java.lang.String\ getUsername()
+comment3.params=
+comment3.target=java.lang.String\ getPassword()
+comment4.params=newUsername
+comment4.target=java.lang.String\ setUsername(java.lang.String)
+comment4.text=\r\n\ @param\ newUsername\ -\ a\ string\ that\ holds\ the\ username\r\n
+comment5.params=newPassword
+comment5.target=java.lang.String\ setPassword(java.lang.String)
+comment5.text=\r\n\ @param\ newPassword\ -\ a\ string\ that\ holds\ the\ password\r\n
+comment6.params=
+comment6.target=java.lang.String\ viewStaff()
+numComments=7

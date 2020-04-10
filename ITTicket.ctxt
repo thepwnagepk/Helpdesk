@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=ITTicket
+comment0.text=\r\n\ IT\ Tickets\ are\ like\ general\ tickets,\ but\ shows\ who\ reported\ the\ incident\ and\ any\ IT\ Equipment\ affected\ by\ the\ incident.\ Inherited\ from\ Ticket.\r\n\r\n\ @author\ Thomas\ Parker\r\n\ @version\ 1\r\n
+comment1.params=ticketID\ date\ time\ receptionist\ details\ reportedBy\ ITEquipmentAffected
+comment1.target=ITTicket(int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ ITTicket\r\n\ @param\ ticketID\ -\ Unique\ ID\ for\ the\ Ticket\r\n\ @param\ date\ -\ The\ date\ the\ ticket\ was\ created\r\n\ @param\ time\ -\ The\ tiem\ the\ ticket\ was\ created\r\n\ @param\ receptionist\ -\ The\ receptionist\ creating\ the\ ticket\r\n\ @param\ details\ -\ The\ details\ of\ the\ ticket\r\n\ @param\ reportedBy\ -\ The\ person\ reporting\ the\ incident\ that\ created\ the\ ticket\r\n\ @param\ ITEquipmentAffected\ -\ Any\ IT\ Equipment\ affected\ by\ the\ incident\r\n
+comment2.params=
+comment2.target=java.lang.String\ viewTicket()
+comment3.params=
+comment3.target=java.lang.String\ getReportedBy()
+comment4.params=
+comment4.target=java.lang.String\ getITEquipmentAffected()
+comment5.params=newReportedBy
+comment5.target=java.lang.String\ setReportedBy(java.lang.String)
+comment5.text=\r\n\ @param\ newReportedBy\ -\ a\ string\ that\ holds\ who\ reported\ the\ incident\r\n
+comment6.params=newITEquipmentAffected
+comment6.target=java.lang.String\ setITEquipmentAffected(java.lang.String)
+comment6.text=\r\n\ @param\ newITEquipmentAffected\ -\ a\ string\ that\ holds\ the\ IT\ Equipment\ affected\r\n
+numComments=7

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Tester
+comment0.text=\r\n\ Initialises\ the\ CLI\ and\ Helpdesk\ and\ goes\ to\ the\ CLI\r\n\r\n\ @author\ Thomas\ Parker\r\n\ @version\ 1\r\n
+comment1.params=
+comment1.target=Tester()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Tester\r\n
+numComments=2

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Actions
+comment0.text=\r\n\ The\ Parent\ /\ Super\ class\ of\ Resolutions\ and\ Updates,\ holding\ the\ variables\ and\ methods\ relevant\ to\ both.\r\n\r\n\ @author\ Thomas\ Parker\r\n\ @version\ 1\r\n
+comment1.params=actionID\ date\ time\ receptionistID
+comment1.target=Actions(int,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Actions\r\n\ \r\n\ @param\ actionID\ -\ a\ Unique\ ID\ for\ the\ Update\ or\ Resolution\r\n\ @param\ date\ -\ Houses\ a\ typed\ in\ date\ as\ a\ string,\ gives\ license\ to\ choose\ the\ format\r\n\ @param\ time\ -\ The\ time\ the\ update\ was\ entered\r\n\ @param\ receptionistID\ -\ The\ receptionist\ giving\ the\ updates\ \ \ \ \ *\ \r\n
+comment2.params=
+comment2.target=int\ getID()
+numComments=3

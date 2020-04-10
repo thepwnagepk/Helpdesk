@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Resolutions
+comment0.text=\r\n\ Inheriting\ all\ but\ Rdetails\ from\ Actions,\ this\ houses\ all\ the\ Updates\ that\ will\ go\ into\ the\ HashMap\ in\ Tickets\r\n\r\n\ @author\ Thomas\ Parker\r\n\ @version\ 1\r\n
+comment1.params=actionID\ date\ time\ receptionistID\ Rdetails
+comment1.target=Resolutions(int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Resolutions\r\n\ @param\ actionID\ -\ a\ Unique\ ID\ for\ the\ Resolution\r\n\ @param\ date\ -\ Houses\ a\ typed\ in\ date\ as\ a\ string,\ gives\ license\ to\ choose\ the\ format\r\n\ @param\ time\ -\ The\ time\ the\ update\ was\ entered\r\n\ @param\ receptionistID\ -\ The\ receptionist\ giving\ the\ updates\r\n\ @param\ Rdetails\ -\ Details\ on\ how\ the\ ticket\ is\ Resolved\r\n
+numComments=2

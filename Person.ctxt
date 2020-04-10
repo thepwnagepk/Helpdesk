@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Person
+comment0.text=\r\n\ Parent\ /\ Superclass\ of\ Student\ and\ Staff\r\n\r\n\ @author\ Thomas\ Parker\r\n\ @version\ 1\r\n
+comment1.params=ID\ name
+comment1.target=Person(int,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Person\r\n\ @param\ ID\ -\ Unique\ ID\ for\ the\ Admin\ or\ Receptionist\r\n\ @param\ name\ -\ this\ is\ the\ name\ of\ the\ account\ holder\r\n
+comment2.params=
+comment2.target=int\ getID()
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=newID
+comment4.target=int\ setID(int)
+comment5.params=newName
+comment5.target=java.lang.String\ setName(java.lang.String)
+comment5.text=\r\n\ @param\ newName\ -\ a\ string\ that\ holds\ the\ name\ to\ be\ set\r\n
+comment6.params=
+comment6.target=java.lang.String\ ToString()
+numComments=7

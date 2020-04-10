@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Student
+comment0.text=\r\n\ Child/Subclass\ of\ Person,\ inherits\ both\ variables\ from\ it\r\n\r\n\ @author\ Thomas\ Parker\r\n\ @version\ 1\r\n
+comment1.params=ID\ name
+comment1.target=Student(int,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Student\r\n\ @param\ ID\ -\ Unique\ ID\ for\ the\ Admin\ or\ Receptionist\r\n\ @param\ name\ -\ this\ is\ the\ name\ of\ the\ account\ holder\r\n
+numComments=2
